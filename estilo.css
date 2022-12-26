@@ -1,0 +1,61 @@
+header{display: flex;
+    justify-content: space-around;
+    
+    
+    
+    
+
+}
+h1{color: rgb(179, 113, 179);
+    
+    position: absolute;
+    left:10%;
+    top: 1%;
+}
+nav{display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 2rem;
+    margin-top: 30px;
+}
+i{
+    width: 10px;
+    height: 10px;
+    margin-top: 35px;
+    
+    
+background: linear-gradient(219deg, rgba(2,0,36,1) 0%, rgba(251,0,255,1) 66%, rgba(145,0,255,1) 66%);
+
+    padding: 10px;
+    border-radius: 20%;
+}
+
+
+div{
+    width: 20%;
+    height: -10%;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+button{
+    background-color: blue;
+    margin-left: 40px;
+    height: 35%;
+    border-radius: 2rem;
+    cursor: pointer;
+    
+    
+    
+}
+
